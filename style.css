@@ -1,4 +1,4 @@
-@import "./fonts/fonts.css";
+@import "./styles/fonts/fonts.css";
 * {
   box-sizing: border-box;
 }
@@ -216,46 +216,46 @@ p, fieldset, legend {
   background-position: center;
 }
 .icon--arrow-left {
-  background-image: url("../assets/left-arrow.png");
+  background-image: url("./assets/left-arrow.png");
 }
 .icon--arrow-right {
-  background-image: url("../assets/right-arrow.png");
+  background-image: url("./assets/right-arrow.png");
 }
 .icon--slider-icon {
-  background-image: url("../assets/slider-icon.svg");
+  background-image: url("./assets/slider-icon.svg");
 }
 .icon--mechanic {
-  background-image: url("../assets/mobile-mechanic.svg");
+  background-image: url("./assets/mobile-mechanic.svg");
 }
 .icon--urgent {
-  background-image: url("../assets/urgent.svg");
+  background-image: url("./assets/urgent.svg");
 }
 .icon--not-drivable {
-  background-image: url("../assets/not-drivable.svg");
+  background-image: url("./assets/not-drivable.svg");
 }
 .icon--own-parts {
-  background-image: url("../assets/own-parts.svg");
+  background-image: url("./assets/own-parts.svg");
 }
 .icon--arrow-down {
-  background-image: url("../assets/arrow-down.svg");
+  background-image: url("./assets/arrow-down.svg");
 }
 .icon--map-point {
-  background-image: url("../assets/map-point.svg");
+  background-image: url("./assets/map-point.svg");
 }
 .icon--success {
-  background-image: url("../assets/success.png");
+  background-image: url("./assets/success.png");
 }
 .icon--happy-smile {
-  background-image: url("../assets/happy-smile.svg");
+  background-image: url("./assets/happy-smile.svg");
 }
 .icon--average-chance {
-  background-image: url("../assets/averageChanceSmile.svg");
+  background-image: url("./assets/averageChanceSmile.svg");
 }
 .icon--good-chance {
-  background-image: url("../assets/goodChanceSmile.svg");
+  background-image: url("./assets/goodChanceSmile.svg");
 }
 .icon--bad-chance {
-  background-image: url("../assets/badChanceSmile.svg");
+  background-image: url("./assets/badChanceSmile.svg");
 }
 
 .page-main {
